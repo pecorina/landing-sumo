@@ -1,0 +1,10 @@
+*{
+	/*tipografia para nuestro landing*/
+    font-family: 'Lato', sans-serif;
+}
+.first-section{
+	background-image: url(../img/bg.jpeg);
+	height: 100%;
+	background-size: cover; /*cover: para q la imagen no se corra*/
+	background-repeat: no-repeat;
+}
